@@ -1,4 +1,3 @@
-import { FootMartApp } from "../container";
 import Ads from "./ADS/Ads";
 import BestSellingProduct from "./BestSellingProduct/BestSellingProduct";
 import Blog from "./Blog/Blog";
@@ -7,12 +6,13 @@ import JustArrive from "./JustArrive/JustArrive";
 import MostPopularProduct from "./MostPopularProduct/MostPopularProduct";
 import TrendingProduct from "./TrendingProduct/TrendingProduct";
 import FreeDelivery from "./freeDelivery/FreeDelivery";
-import MyCard from "./myCart/MyCard";
+import MyCard from "./mycart/MyCard";
+import { FootMartApp } from "../container";
 
 export {
+  MyCard,
   Ads,
   FreeDelivery,
-  MyCard,
   TrendingProduct,
   Discount,
   BestSellingProduct,

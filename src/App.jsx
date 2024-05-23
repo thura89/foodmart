@@ -21,7 +21,7 @@ import {
   FootMartApp,
   LookingFor,
 } from "./container";
-
+import "./assets/js/script";
 const App = () => {
   return (
     <>

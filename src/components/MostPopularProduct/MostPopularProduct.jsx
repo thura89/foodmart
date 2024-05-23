@@ -67,7 +67,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -128,7 +128,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -186,7 +186,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -244,7 +244,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -301,7 +301,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -362,7 +362,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -420,7 +420,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
@@ -478,7 +478,7 @@ const MostPopularProduct = () => {
                         id="quantity"
                         name="quantity"
                         className="form-control input-number"
-                        value="1"
+                        defaultValue="1"
                       />
                       <span className="input-group-btn">
                         <button
